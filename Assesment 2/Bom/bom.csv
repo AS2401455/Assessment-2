@@ -1,0 +1,5 @@
+Part,Description,Quantity,Manufacturer,Part Number,Datasheet,Price (EGP),Total Price (EGP)
+Arduino Uno,Arduino Uno Rev3,1,Arduino,A000066,https://store.arduino.cc/usa/documents/Arduino_Uno_Rev3_schematics.pdf,23.9,495
+LED,"Red LED, 5mm",1,,,,,1
+LCD KEYPAD SHIELD,KEYPAD SHIELD,1,,,,,120
+Jumper Wires,Male-to-Male,Several,,,,,120

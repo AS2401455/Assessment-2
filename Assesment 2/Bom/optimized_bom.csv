@@ -1,0 +1,6 @@
+Part,Description,Quantity,Manufacturer,Part Number,Datasheet,Price (EGP),Total Price (EGP)
+AVR Controller,ATmega328P,1,Atmel,ATmega328P,https://www.atmel.com/images/doc8161.pdf,5,5
+LED,"Red LED, 5mm",1,,,,,0.1
+Resistor,"220 Ohm, 0.25W",1,,,,,0.5
+LCD,SHIELD KEYPAD,1,,,,,1
+Jumper Wires,Male-to-Male,4,,,,,6.5
